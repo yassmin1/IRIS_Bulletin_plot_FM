@@ -1,8 +1,9 @@
 ## Statistics on Seismic Activity in the USA"
 
-* The inputs:IRIS earthquake bulletin,shapefiles and focal mechanisms. 
+### The inputs:    
+IRIS earthquake bulletin,  physiographic feature shapefiles, focal mechanisms, Geopandas and shapley.  
 
-##Output  
+### Sample Results of the Analysis:         
 * Advancements over the years to improve the accuracy and reduce the uncertainty in estimating earthquake magnitudes.    
 ![image](https://user-images.githubusercontent.com/38767315/223810650-6da2a7ce-2243-402a-ae08-684be6ed7da7.png)
 
