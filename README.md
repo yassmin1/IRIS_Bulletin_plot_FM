@@ -1,4 +1,4 @@
-## Statistics on Seismic Activity in the USA
+## US Earthquake Statistics
 
 ### The inputs:    
 * IRIS earthquake bulletin,  physiographic feature shapefiles, focal mechanisms, Geopandas and shapley.  
