@@ -12,5 +12,5 @@
 
 * Mean Magnitude of Earthquakes Occurring Across the USA.   
 
-![image](https://user-images.githubusercontent.com/38767315/223806873-a110da67-1d15-4510-900e-12d40bbc8983.png)
+![image](https://github.com/yassmin1/IRIS_Bulletin_plot_FM/blob/main/eq.png)
 
